@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F50F7243223E265100C4927C /* 001.TowSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.TowSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F50F723C223E261200C4927C = {
 			isa = PBXGroup;
 			children = (
+				F50F7243223E265100C4927C /* 001.TowSum.playground */,
 			);
 			sourceTree = "<group>";
 		};
