@@ -42,3 +42,8 @@ enum Solution2: SolutionType {
         return []
     }
 }
+
+let nums = [2, 7, 11, 15]
+let target = 9
+print(Solution1.twoSum(nums, target))
+print(Solution2.twoSum(nums, target))

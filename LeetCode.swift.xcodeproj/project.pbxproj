@@ -7,15 +7,23 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F50F7243223E265100C4927C /* 001.TowSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.TowSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F50F7245223E2A2B00C4927C /* 001.TowSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.TowSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		F50F723C223E261200C4927C = {
 			isa = PBXGroup;
 			children = (
-				F50F7243223E265100C4927C /* 001.TowSum.playground */,
+				F50F7244223E2A2B00C4927C /* playgrounds */,
 			);
+			sourceTree = "<group>";
+		};
+		F50F7244223E2A2B00C4927C /* playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				F50F7245223E2A2B00C4927C /* 001.TowSum.playground */,
+			);
+			path = playgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
