@@ -10,6 +10,7 @@
 		F50F7245223E2A2B00C4927C /* 001.TowSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.TowSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F50F7246223E6ACF00C4927C /* 002.AddTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 002.AddTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F585318F2241328D00A72627 /* 003.LongestSubString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 003.LongestSubString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F58531902242425E00A72627 /* 004.MedianOfTwoArrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 004.MedianOfTwoArrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -26,6 +27,7 @@
 				F50F7245223E2A2B00C4927C /* 001.TowSum.playground */,
 				F50F7246223E6ACF00C4927C /* 002.AddTwoNumbers.playground */,
 				F585318F2241328D00A72627 /* 003.LongestSubString.playground */,
+				F58531902242425E00A72627 /* 004.MedianOfTwoArrays.playground */,
 			);
 			path = playgrounds;
 			sourceTree = "<group>";
