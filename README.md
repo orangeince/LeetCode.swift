@@ -1,4 +1,6 @@
 # LeetCode.swift
+All exercises are implemented using swift with SwiftPlayground.
+
 |  #  | Title | Solution Count | Difficulty | 
 | --- | --- | --- | --- |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [1](./playgrounds/004.MedianOfTwoArrays.playground/Contents.swift) | Hard |
