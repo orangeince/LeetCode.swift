@@ -29,6 +29,12 @@ protocol SolutionType {
     static func isPalindrome(_ x: Int) -> Bool
 }
 
+/// Use array
+///
+/// Result of LeetCode's testcases:
+///  - Runtime: 44 ms, ft 88.44%
+///  - Memory: 21 MB, lt 5.26%
+///  - Swift version: 4.2
 class Solution1: SolutionType {
     static func isPalindrome(_ x: Int) -> Bool {
         // 排除负数
