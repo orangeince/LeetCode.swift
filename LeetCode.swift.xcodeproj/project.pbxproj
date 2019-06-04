@@ -15,6 +15,7 @@
 		F58531902242425E00A72627 /* 004.MedianOfTwoArrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 004.MedianOfTwoArrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F58531912243934300A72627 /* 008.StringToInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 008.StringToInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5C4B61322A410FB005C482E /* 009.PalindromeNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 009.PalindromeNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F5CEA80C22A6C58E00BB2AE3 /* 011.ContainerWithMostWater.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 011.ContainerWithMostWater.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5E3EFB322524EF2003588F4 /* 005.LongestPalindromicSubstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 005.LongestPalindromicSubstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -38,6 +39,7 @@
 				F5529675226618C000DBBCA8 /* 007.ReverseInteger.playground */,
 				F58531912243934300A72627 /* 008.StringToInteger.playground */,
 				F5C4B61322A410FB005C482E /* 009.PalindromeNumber.playground */,
+				F5CEA80C22A6C58E00BB2AE3 /* 011.ContainerWithMostWater.playground */,
 			);
 			path = playgrounds;
 			sourceTree = "<group>";
