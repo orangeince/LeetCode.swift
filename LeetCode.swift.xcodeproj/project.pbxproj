@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5C63023F250A63220053D14E /* 015.3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 015.3Sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F50F7245223E2A2B00C4927C /* 001.TowSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.TowSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F50F7246223E6ACF00C4927C /* 002.AddTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 002.AddTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F539FF3F22885CA4001793B7 /* 006.ZigZagConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 006.ZigZagConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -40,6 +41,7 @@
 				F58531912243934300A72627 /* 008.StringToInteger.playground */,
 				F5C4B61322A410FB005C482E /* 009.PalindromeNumber.playground */,
 				F5CEA80C22A6C58E00BB2AE3 /* 011.ContainerWithMostWater.playground */,
+				5C63023F250A63220053D14E /* 015.3Sum.playground */,
 			);
 			path = playgrounds;
 			sourceTree = "<group>";

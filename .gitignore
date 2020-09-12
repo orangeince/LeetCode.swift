@@ -1,0 +1,60 @@
+
+# OS X
+.DS_Store
+
+# npm
+npm-debug.log
+tsconfig.json
+
+# Xcode
+ios/build/
+build/
+builds/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+ios/R.generated.swift
+*.orig
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
+#
+Pods/
+*.xcscmblueprint
+
+# legacy react-native project files
+node_modules/
+*.iml
+android/build/
+android/.gradle/
+
+# vscode
+.vscode
+typings
+
+# fastlane
+ios/fastlane/report.xml
+ios/fastlane/test_output
+ios/bin/
+ios/.byebug_history
+
+vendor/
+
+# letu integration
+letu/
+.bundle/
