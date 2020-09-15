@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5C258DC62510E6D30076833C /* 036.ValidSudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 036.ValidSudoku.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C63023F250A63220053D14E /* 015.3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 015.3Sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C630241250C717A0053D14E /* 016.3SumClosest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 016.3SumClosest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5CFD1895250F9E3100DB9A75 /* 020.ValidParentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 020.ValidParentheses.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -46,6 +47,7 @@
 				5C63023F250A63220053D14E /* 015.3Sum.playground */,
 				5C630241250C717A0053D14E /* 016.3SumClosest.playground */,
 				5CFD1895250F9E3100DB9A75 /* 020.ValidParentheses.playground */,
+				5C258DC62510E6D30076833C /* 036.ValidSudoku.playground */,
 			);
 			path = playgrounds;
 			sourceTree = "<group>";
